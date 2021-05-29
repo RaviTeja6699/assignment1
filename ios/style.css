@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+}
+.wh{
+    height: 241px;
+    width: 341px;
+}
+.bg1{
+   
+    border-radius: 4px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://www.wildermanfund.org/hubfs/Assets%202018/depression.jpg);
+}
+.bg2{
+  
+    border-radius: 4px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://www.wildermanfund.org/hubfs/175545935.jpg);
+}
+.bg3{
+    
+    border-radius: 4px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://www.wildermanfund.org/hubfs/Assets%202018/shutterstock_169647155.jpg);
+}
+.bg4{
+    
+    border-radius: 4px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://www.wildermanfund.org/hubfs/Assets%202018/shutterstock_83231545.jpg);
+}
+.bg5{
+    
+    border-radius: 4px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://www.wildermanfund.org/hubfs/Assets%202018/176157090.jp);
+}
+.bg6{
+    
+    
+    border-radius: 4px;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://www.wildermanfund.org/hubfs/Assets%202018/176157090.jpg);
+}
+.bc{
+    
+    background-color: #66FF66
+}
+.card-body:hover{
+    background-color: black;
+    color:white;
+
+}
+.card{
+    color: white;
+    overflow: hidden;
+}
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgba(78,232,99,0.65);;
+}
+.card{
+    height: 300px;
+    
+
+}
